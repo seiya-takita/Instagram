@@ -13,6 +13,7 @@
 		ED654F7429C453430091091B /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED654F7329C453430091091B /* PostData.swift */; };
 		ED654F7729C45A250091091B /* PostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED654F7529C45A250091091B /* PostTableViewCell.swift */; };
 		ED654F7829C45A250091091B /* PostTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ED654F7629C45A250091091B /* PostTableViewCell.xib */; };
+		ED654F7A29CADF220091091B /* AddCommentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED654F7929CADF220091091B /* AddCommentViewController.swift */; };
 		ED78EFF929C2D0B50080FA6D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED78EFF829C2D0B50080FA6D /* AppDelegate.swift */; };
 		ED78EFFB29C2D0B50080FA6D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED78EFFA29C2D0B50080FA6D /* SceneDelegate.swift */; };
 		ED78F00029C2D0B50080FA6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED78EFFE29C2D0B50080FA6D /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 		ED654F7329C453430091091B /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		ED654F7529C45A250091091B /* PostTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostTableViewCell.swift; sourceTree = "<group>"; };
 		ED654F7629C45A250091091B /* PostTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostTableViewCell.xib; sourceTree = "<group>"; };
+		ED654F7929CADF220091091B /* AddCommentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCommentViewController.swift; sourceTree = "<group>"; };
 		ED78EFF529C2D0B50080FA6D /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED78EFF829C2D0B50080FA6D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ED78EFFA29C2D0B50080FA6D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				ED78F00E29C2DC260080FA6D /* HomeViewController.swift */,
 				ED78F01029C2DC4A0080FA6D /* ImageSelectViewController.swift */,
 				ED78F01629C2E7FE0080FA6D /* TabBarController.swift */,
+				ED654F7929CADF220091091B /* AddCommentViewController.swift */,
 				ED78F01229C2DC5F0080FA6D /* PostViewController.swift */,
 				ED654F7129C415C00091091B /* Const.swift */,
 				ED78F01429C2DC6E0080FA6D /* SettingViewController.swift */,
@@ -242,6 +245,7 @@
 				ED78F01129C2DC4A0080FA6D /* ImageSelectViewController.swift in Sources */,
 				ED78F01729C2E7FE0080FA6D /* TabBarController.swift in Sources */,
 				ED78F00F29C2DC260080FA6D /* HomeViewController.swift in Sources */,
+				ED654F7A29CADF220091091B /* AddCommentViewController.swift in Sources */,
 				ED78F01329C2DC5F0080FA6D /* PostViewController.swift in Sources */,
 				ED78F01529C2DC6E0080FA6D /* SettingViewController.swift in Sources */,
 				ED654F7429C453430091091B /* PostData.swift in Sources */,
